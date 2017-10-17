@@ -1,6 +1,6 @@
 body {
-    animation: colorchange 25s;
-    -webkit-animation: colorchange 25s;
+    animation: colorchange 25s infinite;
+    -webkit-animation: colorchange 25s infinite;
   }
 
   @keyframes colorchange
